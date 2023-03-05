@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently an undergrade studying AI<br>I like getting my ass whooped by coding questions
+Currently an undergrade studying AI <br>
+Trying to learn web-dev at the moment
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheHuntsman4&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
