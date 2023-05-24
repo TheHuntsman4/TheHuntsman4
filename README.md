@@ -11,7 +11,7 @@ Trying to learn web-dev at the moment
 ![](https://github-profile-trophy.vercel.app/?username=TheHuntsman4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Quote For The Day
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)]
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=stoicism)]
 
 
 
