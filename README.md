@@ -4,8 +4,9 @@ Trying to learn web-dev at the moment
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheHuntsman4&theme=radical&hide_border=false)<br/>
+<center>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHuntsman4&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<center/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TheHuntsman4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
