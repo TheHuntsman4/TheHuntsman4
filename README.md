@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am a Second Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri <br>
-Trying to learn web-dev at the moment
+• 🏫 I am a Second Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri.
+
+• 💻 Member @[amfoss](https://amfoss.in/).
+
+• 🤖 I am learning about Deep Learning and Machine Learning at the moment.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheHuntsman4&theme=radical&hide_border=false)
