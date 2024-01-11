@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently an undergrade studying AI <br>
+I am a Second Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri <br>
 Trying to learn web-dev at the moment
 
 ## 📊 GitHub Stats:
