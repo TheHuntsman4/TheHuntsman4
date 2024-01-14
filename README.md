@@ -6,7 +6,7 @@
 • 🤖 I am learning about Deep Learning and Machine Learning at the moment.
 
 ## 📊 GitHub Stats:
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=TheHuntsman4&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheHuntsman4&theme=radical&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHuntsman4&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ## 🏆 GitHub Trophies
