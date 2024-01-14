@@ -1,7 +1,7 @@
 # 💫 About Me:
 • 🏫 I am a Second Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri.
 
-• 💻 Member @[amfoss](https://amfoss.in/).
+• 💻 Member and Mentor @[amfoss](https://amfoss.in/).
 
 • 🤖 I am learning about Deep Learning and Machine Learning at the moment.
 
