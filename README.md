@@ -1,9 +1,13 @@
+# Hey👋, I'm Aniketh
+I am a Second Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri. I am a Member and Mentor @[amfoss](https://amfoss.in/). I do webdev and Deep Learning.
+
+
 # 💫 About Me:
-• 🏫 I am a Second Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri.
+• I am currently doing research and projects related to Deep Learning
 
-• 💻 Member and Mentor @[amfoss](https://amfoss.in/).
+• Ask me about React, Next.js, TailwindCSS, ML and DL 
 
-• 🤖 I am learning about Deep Learning and Machine Learning at the moment.
+• I write some blogs from time to time [here.]([url](https://anikethvijesh-blog.vercel.app/))
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheHuntsman4&theme=radical&hide_border=false)
