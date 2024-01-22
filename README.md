@@ -10,7 +10,7 @@ I am a Second Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri. I am 
 • I write some blogs from time to time [here.]([url](https://anikethvijesh-blog.vercel.app/))
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheHuntsman4&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheHuntsman4&theme=dracula&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHuntsman4&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
