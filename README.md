@@ -1,9 +1,9 @@
 # Hey👋, I'm Aniketh
-I am a Second Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri. I am a Member and Mentor @[amfoss](https://amfoss.in/). I do webdev and Deep Learning.
+I am a Third Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri. I am a Member and Mentor @[amfoss](https://amfoss.in/). I do webdev and Deep Learning.
 
 
 # 💫 About Me:
-• I am currently doing research and projects related to Deep Learning
+• I am doing research and projects related to Deep Learning and Medical AI.
 
 • Ask me about React, Next.js, TailwindCSS, ML and DL 
 
