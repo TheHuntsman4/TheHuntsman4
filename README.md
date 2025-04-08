@@ -7,6 +7,6 @@ I am a Third Year CSE-AI student @ Amrita Vishwa Vidyapeetam, Amritapuri. I am a
 
 • Ask me about React, Next.js, TailwindCSS, ML and DL 
 
-• I write some blogs from time to time [here.](https://anikethvijesh-blog.vercel.app/)
+• I pen down some of my thoughts and lessons from time to time [here.]([https://anikethvijesh-blog.vercel.app/](https://obsidiandigitalgarden-ivory.vercel.app/))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
